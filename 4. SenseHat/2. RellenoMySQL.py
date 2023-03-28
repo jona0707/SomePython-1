@@ -10,7 +10,7 @@
 #Se enviaran datos de Temperatura, Presión y Humedad obtenidos por el emulador de SenseHat, si se desea 
 #utilizar SenseHat en sí, solo hace falta cambiar la biblioteca (y obviamente el uso de la placa).
 #*----------------------------------*
-#  Librerías previas a instalar!!! 
+#  Librerías previas a instalar!! 
 #       pip install pymysql
 #*----------------------------------*
 
