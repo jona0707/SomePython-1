@@ -18,7 +18,7 @@ Algunos scripts útiles escritos en Python, útiles para empezar (comentados en 
        Se inicia el Bot con /star utilizando la URL entregada en el BotFather.
        El message Id se obtiene introduciendo https://api.telegram.org/bot<yourtoken>/getUpdates
      
-<--->
+<-------------------------------------->
 Some useful scripts written in Python, useful to get started (commented in Spanish):
    1. MateriasNotas:
       Lists, loops and functions are used to create a script that checks the status of notes.
