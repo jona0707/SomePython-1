@@ -1,4 +1,4 @@
-#SomePython-1.4.1 ~ Jona
+#SomePython-1.4.2 ~ Jona
 #-------------------#
 #Se llenarán los datos en una BDD utilizando el siguiente script, teniendo en cuenta la creación previa de
 #un servidor LAMP cuya BDD está gestionada por MySQL utilizando PHPMyAdmin, la BDD tiene (para este caso en
