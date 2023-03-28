@@ -11,8 +11,8 @@ import requests
 #Creo una funcion para usarla cada que se ejecute y se ingrese un mensaje:
 
 def enviarMSG(msg):
-    token = '6063584004:AAFzbzgEK5GbzksgLjsKeVlTjO_dTdpvic4'
-    msgId = '1365896433'
+    token = 'TOKEN'
+    msgId = 'MSGID'
     msg = 'https://api.telegram.org/bot'+token+'/sendMessage?chat_id='+msgId+'&parse_mode=Markdown&text='+msg
     
     #Envio el mensaje
