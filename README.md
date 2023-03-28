@@ -7,19 +7,12 @@ Algunos scripts útiles escritos en Python, útiles para empezar (comentados en 
        
   2. CorreoFechaYHora:
   
-     Permite enviar un correo electrónico indicando la fecha y hora de 8 países de diferentes zonas horarias.
-     Para ello se debera tener un correo electronico con la autenticacion de 2 pasos (simplemente activada), luego
-     se crea una contraseña de aplicación y una vez se haya hecho esto, se tendrá la API correspondiente para usar
-     en el Script.
-     
+     Permite enviar un correo electrónico indicando la fecha y hora de 8 países de diferentes zonas horarias.     
      Se uso listas y las librerías SMTPLIB, DATATIME y PYTZ.
      
   3. EnvioMSGBotTelegram:
  
      Permitirá enviar un mensaje a través de un bot de Telegram, utilizando el Token, el Message Id.
-       El token se obtiene llamando al BotFather usando (secuencialmente): /start, /newbot, nombre Bot, nombre User.
-       Se inicia el Bot con /star utilizando la URL entregada en el BotFather.
-       El message Id se obtiene introduciendo https://api.telegram.org/bot<yourtoken>/getUpdates
        
   4. SenseHat:
      Scripts que utilicen la placa SenseHat o en su defecto, el emulador. (Aplicación en Raspberry).
@@ -61,7 +54,7 @@ Algunos scripts útiles escritos en Python, útiles para empezar (comentados en 
         The Bot is started with /star using the URL given in the BotFather.
         The message Id is obtained by entering https://api.telegram.org/bot<yourtoken>/getUpdates
         
-   4.SenseHat:
+   4. SenseHat:
       Scripts that use the SenseHat board or, failing that, the emulator. (Application in Raspberry).
      
       1. AlertaTemporalTelegram:
