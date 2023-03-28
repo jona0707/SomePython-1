@@ -20,6 +20,22 @@ Algunos scripts útiles escritos en Python, útiles para empezar (comentados en 
        El token se obtiene llamando al BotFather usando (secuencialmente): /start, /newbot, nombre Bot, nombre User.
        Se inicia el Bot con /star utilizando la URL entregada en el BotFather.
        El message Id se obtiene introduciendo https://api.telegram.org/bot<yourtoken>/getUpdates
+       
+  4. SenseHat:
+     Scripts que utilicen la placa SenseHat o en su defecto, el emulador. (Aplicación en Raspberry).
+     
+     1. AlertaTemporalTelegram:
+     
+        Permitirá enviar alertas de temperatura, humedad y presion con Sense HAT a un bot de Telegram (previamente programado).
+        
+     2. RellenoMySQL:
+     
+        Se llenarán los datos en una BDD utilizando el siguiente script, teniendo en cuenta la creación previa de
+        un servidor LAMP cuya BDD está gestionada por MySQL utilizando PHPMyAdmin.
+        
+     3. PixelArt:
+     
+        Imágenes o pixel arts generadas en el Sense HAT.
      
 <------->
 
@@ -44,3 +60,19 @@ Algunos scripts útiles escritos en Python, útiles para empezar (comentados en 
         The token is obtained by calling BotFather using (sequentially): /start, /newbot, Bot name, User name.
         The Bot is started with /star using the URL given in the BotFather.
         The message Id is obtained by entering https://api.telegram.org/bot<yourtoken>/getUpdates
+        
+   4.SenseHat:
+      Scripts that use the SenseHat board or, failing that, the emulator. (Application in Raspberry).
+     
+      1. AlertaTemporalTelegram:
+     
+         It will allow sending temperature, humidity and pressure alerts with Sense HAT to a Telegram bot (previously programmed).
+        
+      2. RellenoMySQL:
+     
+         The data will be filled in a BDD using the following script, taking into account the previous creation of
+         a LAMP server whose DB is managed by MySQL using PHPMyAdmin.
+        
+      3. PixelArt:
+     
+         Images or pixel arts generated in the Sense HAT.
