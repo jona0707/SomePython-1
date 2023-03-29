@@ -8,7 +8,7 @@ Algunos scripts útiles escritos en Python, útiles para empezar (comentados en 
   2. CorreoFechaYHora:
   
      Permite enviar un correo electrónico indicando la fecha y hora de 8 países de diferentes zonas horarias.     
-     Se uso listas y las librerías SMTPLIB, DATATIME y PYTZ.
+     Se usó listas y las librerías SMTPLIB, DATATIME y PYTZ.
      
   3. EnvioMSGBotTelegram:
  
